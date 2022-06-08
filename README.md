@@ -56,6 +56,7 @@ Screenshot hasil menulis perintah “h1 ping -c 4 h4” pada ke 2 terminal untuk
 Terminal 1
 
 ![image](https://user-images.githubusercontent.com/99635670/172669741-fa13d261-45df-4965-b1de-b561d078ebce.png
+
 Terminal 2
 
 Screenshot hasil menulis perintah “h5 ping -c 4 h6” pada kedua terminal untuk melihat konektivitas
