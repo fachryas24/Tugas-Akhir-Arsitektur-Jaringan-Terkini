@@ -55,7 +55,7 @@ Screenshot hasil menulis perintah “h1 ping -c 4 h4” pada ke 2 terminal untuk
 ![image](https://user-images.githubusercontent.com/99635670/172669693-9eee9cc2-9c1b-4be2-9fed-1e0ee10e4d29.png)
 Terminal 1
 
-![image](https://user-images.githubusercontent.com/99635670/172669741-fa13d261-45df-4965-b1de-b561d078ebce.png
+![image](https://user-images.githubusercontent.com/99635670/172669741-fa13d261-45df-4965-b1de-b561d078ebce.png)
 
 Terminal 2
 
