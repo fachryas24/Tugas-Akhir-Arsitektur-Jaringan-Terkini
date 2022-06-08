@@ -5,6 +5,7 @@ Fachry Arsyad Salam
 Arsitektur-Jaringan-Terkini - TKOM A
 
 **Tugas 1 - Membuat Instance dan Instalasi OpenFlow, Mininet dan Ryu**
+
 ![image](https://user-images.githubusercontent.com/99635670/172663262-14c33d71-a2e9-4ac2-8c26-93ae0c551098.png)
 ![image](https://user-images.githubusercontent.com/99635670/172663341-242a97b2-e4e6-424f-8dc0-56ebfaf50b98.png)
 
@@ -23,11 +24,13 @@ Mininet
 mencoba salah satu perintah pada sudo mn 'help'
 
 **Tugas 2 - Mininet Custom Topology**
+
 ![image](https://user-images.githubusercontent.com/99635670/172666843-261cc524-d793-4064-b49c-83cc38c6990f.png)
 
 Tugas 2 disini kita membuat custom topologi dengan membuat flow antara host 1 dan host 2 kemudian melihat koneksinya.
 
 **Tugas 3 - Ryu Load Balancer**
+
 Terminal 1
 ![image](https://user-images.githubusercontent.com/99635670/172668266-bff4694c-c839-4c8d-a5d8-6eda1582941c.png)
 ![image](https://user-images.githubusercontent.com/99635670/172668313-15df809b-9b98-428e-b264-31b5eeae2fe8.png)
@@ -36,6 +39,7 @@ Terminal 2
 ![image](https://user-images.githubusercontent.com/99635670/172668372-63fb1b02-8e9e-48d7-baf7-ec15385d437e.png)
 
 **Tugas 4 - Shortest Path Routing**
+
 Terminal 1 
 ![image](https://user-images.githubusercontent.com/99635670/172669154-ef3d741e-b6c1-4fa6-b034-5c223df6507f.png)
 
